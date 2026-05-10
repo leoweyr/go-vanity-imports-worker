@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+# [1.0.2](https://github.com/leoweyr/go-vanity-imports-worker/compare/v1.0.1...v1.0.2) (2026-05-10)
+### Bug Fixes
+
+* declare `GITHUB_OWNER` environment variable ([aa76111](https://github.com/leoweyr/go-vanity-imports-worker/commit/aa76111d934681fad2fef86dc060caccb184b96c)) [@leoweyr](https://github.com/leoweyr)
+
+
+
 # [1.0.1](https://github.com/leoweyr/go-vanity-imports-worker/compare/v1.0.0...v1.0.1) (2026-05-10)
 ### DevOps
 
