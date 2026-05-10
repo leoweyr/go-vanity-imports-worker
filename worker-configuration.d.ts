@@ -6,6 +6,7 @@ declare namespace Cloudflare {
 		mainModule: typeof import("./src/index");
 	}
 	interface Env {
+        GITHUB_OWNER: string
 	}
 }
 interface Env extends Cloudflare.Env {}
