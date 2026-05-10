@@ -15,6 +15,7 @@ permissions:
 jobs:
   deploy_workers:
     runs-on: ubuntu-latest
+    environment: Production
     steps:
       -   name: 📂 Checkout Repository
           uses: actions/checkout@v4
