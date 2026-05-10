@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+# [1.0.3](https://github.com/leoweyr/go-vanity-imports-worker/compare/v1.0.2...v1.0.3) (2026-05-10)
+### DevOps
+
+* correct wrangler-action vars syntax for environment injection ([56669af](https://github.com/leoweyr/go-vanity-imports-worker/commit/56669af702a8b272bb019f101e39eb1b69e3bb05)) [@leoweyr](https://github.com/leoweyr)
+
+
+
 # [1.0.2](https://github.com/leoweyr/go-vanity-imports-worker/compare/v1.0.1...v1.0.2) (2026-05-10)
 ### Bug Fixes
 
