@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+# [1.0.1](https://github.com/leoweyr/go-vanity-imports-worker/compare/v1.0.0...v1.0.1) (2026-05-10)
+### DevOps
+
+* remove test step from deployment workflow ([6640a76](https://github.com/leoweyr/go-vanity-imports-worker/commit/6640a7693505fdff9503b454bed4fe465a613179)) [@leoweyr](https://github.com/leoweyr)
+
+
+
 # [1.0.0] (2026-05-10)
 ### Features
 
