@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - master
+    workflow_dispatch:
 
 
 permissions:
@@ -14,6 +15,7 @@ permissions:
 jobs:
   deploy_workers:
     runs-on: ubuntu-latest
+    environment: Production
     steps:
       -   name: 📂 Checkout Repository
           uses: actions/checkout@v4
@@ -35,3 +37,5 @@ jobs:
           with:
               apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
               accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+              vars: |
+                  GITHUB_OWNER=${{ vars.GH_OWNER }}
