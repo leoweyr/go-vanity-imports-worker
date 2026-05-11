@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+# [1.0.4](https://github.com/leoweyr/go-vanity-imports-worker/compare/v1.0.3...v1.0.4) (2026-05-11)
+### Bug Fixes
+
+* correct repository owner variable in meta tag ([c4b76b0](https://github.com/leoweyr/go-vanity-imports-worker/commit/c4b76b0598df105956cd469d6f4be5582303d058)) [@leoweyr](https://github.com/leoweyr)
+
+
+### DevOps
+
+* **publish-release:** support bump TRB project node version ([898a0b0](https://github.com/leoweyr/go-vanity-imports-worker/commit/898a0b00b148307a6576697198b5da9495346f07)) [@leoweyr](https://github.com/leoweyr)
+
+
+
 # [1.0.3](https://github.com/leoweyr/go-vanity-imports-worker/compare/v1.0.2...v1.0.3) (2026-05-10)
 ### DevOps
 
