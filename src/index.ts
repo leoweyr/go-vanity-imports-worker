@@ -23,7 +23,7 @@ export default {
 			const html: string = `<!DOCTYPE html>
 <html>
 <head>
-    <meta name="go-import" content="${hostname}${path} git https://github.com/${githubUser}${repoPath}">
+    <meta name="go-import" content="${hostname}${path} git https://github.com/${githubOwner}${repoPath}">
 </head>
 <body>Go get redirect for ${hostname}</body>
 </html>`;
