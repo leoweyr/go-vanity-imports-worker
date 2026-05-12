@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+# [1.0.6](https://github.com/leoweyr/go-vanity-imports-worker/compare/v1.0.5...v1.0.6) (2026-05-12)
+### Revert
+
+* feat: provide structured diagnostic information for request failures ([554189b](https://github.com/leoweyr/go-vanity-imports-worker/commit/554189bae412b9a12a7c672757897276449e032e)) [@leoweyr](https://github.com/leoweyr)
+
+
+
 # [1.0.5](https://github.com/leoweyr/go-vanity-imports-worker/compare/v1.0.4...v1.0.5) (2026-05-11)
 ### Features
 
