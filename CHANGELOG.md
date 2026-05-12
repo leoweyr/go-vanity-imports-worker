@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file.
 
+# [1.0.6](https://github.com/leoweyr/go-vanity-imports-worker/compare/v1.0.5...v1.0.6) (2026-05-12)
+
 # [1.0.5](https://github.com/leoweyr/go-vanity-imports-worker/compare/v1.0.4...v1.0.5) (2026-05-11)
 ### Features
 
